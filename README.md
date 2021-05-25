@@ -11,6 +11,7 @@ Sử dụng Charles bắt api của ứng dụng trên điện thoại.
 
 Thông tin database trong file Database.php dòng 337 đến 352
 
+************************
 //----------------------------------------------------------
 /**
  * @package NOTAD API MOMO
@@ -22,6 +23,7 @@ Thông tin database trong file Database.php dòng 337 đến 352
  */
 
 //----------------------------------------------------------
+******************************
 
 Cron 1 phút 1 lần vào file class.momo.php
 
